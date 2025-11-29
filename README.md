@@ -14,5 +14,9 @@ Blinkit wants to understand how different products, outlet types, locations, and
 - Size: Approximately 8,500 records with 12 features  
 - Features include product details (type, fat content, weight), outlet information (identifier, size, location tier, type), sales data, and customer ratings
 
-# 📷 Dashboard Preview
+# 📸 Dashboard Preview
 ![image alt](https://github.com/Sush2205/Blinkit_Grocery_Data_Analysis/blob/main/Screenshot%202025-11-29%20220655.png)
+
+## Conclusion
+
+This project delivers a reliable and interactive evaluation of Blinkit’s sales data, empowering business leaders with insights to optimize sales strategies and improve customer experience.
