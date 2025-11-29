@@ -15,7 +15,7 @@ Blinkit wants to understand how different products, outlet types, locations, and
 - Features include product details (type, fat content, weight), outlet information (identifier, size, location tier, type), sales data, and customer ratings
 
 # 📸 Dashboard Preview
-![image alt](https://github.com/Sush2205/Blinkit_Grocery_Data_Analysis/blob/main/Screenshot%202025-11-29%20220655.png)
+![image alt](https://github.com/Sush2205/Blinkit_Grocery_Data_Analysis/blob/main/Dashboard%20image.png)
 
 ## Conclusion
 
